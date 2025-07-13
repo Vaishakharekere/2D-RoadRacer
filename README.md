@@ -20,11 +20,6 @@ You control a car racing down a road, avoiding police cars coming toward you. As
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Include game screenshots here in your repo to help visualize)*
-
----
 
 ## 🧱 Features
 
